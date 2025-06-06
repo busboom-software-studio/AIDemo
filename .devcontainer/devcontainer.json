@@ -20,7 +20,10 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolsai.jupyter",
-				"ms-python.isort"
+				"ms-python.isort",
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
+				
 			]
 		}
 	}
